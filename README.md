@@ -173,7 +173,7 @@ See also the list of [contributors](https://github.com/konamonimahesh/The-Docume
      To complete the project they helped me alot.
 
 - References
-    I refreed the some youtube lectures videos and read  some documentation about java and Mysql languages.
+    I refered the some youtube lectures videos and read  some documentation about java and Mysql languages.
 
 
 
