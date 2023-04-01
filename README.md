@@ -169,7 +169,7 @@ See also the list of [contributors](https://github.com/konamonimahesh/The-Docume
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
 - Inspiration
-     I took the inspiration from the junie soloman madam and Bhupendra pharihar sir from the Skill-lync  
+     I took the inspiration from the junie Denny solomon madam and Bhupendra pharihar sir from the Skill-lync  
      To complete the project they helped me alot.
 
 - References
