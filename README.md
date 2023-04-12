@@ -72,40 +72,40 @@ Java Installation:
 2) Go to Official website click on it.
 3) It will take to the  Official website on top of right side you will get Download Java click on it.
 4) Click on the JDK download link according to your operating system.
-v) Check the box to accept the License Agreement. It activates the download button.
-vi) Click on install buuton to install.
-vii) After successful installation go to the command prompt.
-viii) type java --version.
-ix) It ensures that Java is successfully installed in your system.
+5) Check the box to accept the License Agreement. It activates the download button.
+6) Click on install buuton to install.
+7) After successful installation go to the command prompt.
+8) type java --version.
+9) It ensures that Java is successfully installed in your system.
 
 Netbeans IDE installation:
 
-i) Go to Chrome and type Netbeans java.
-ii) Go to Official website click on it.
-iii) It will take to the  Official website on top of left side you will get Download click on it.
-iv) You can download any type of setup as per your requirements from the above mention web page.
+1) Go to Chrome and type Netbeans java.
+2) Go to Official website click on it.
+3) It will take to the  Official website on top of left side you will get Download click on it.
+4) You can download any type of setup as per your requirements from the above mention web page.
     Right-click on the setup or you can Double-Click on the setup by using the mouse.
-v) Click on the next option.
-vi) Check on the “Private networks, such as my home and work network”.
-vii) Click on the Allow access button.
-viii) Check on the “I accept” option and click on the “Next” button.
-ix) Select the path where you want to install the software and press the “Next” button.
-x)  Set the Password, User Name & Ports for the Network Connectivity, or we can use this UserName and the Password for the Connecting the Front-End to the Back-End. 
-xi)  Click on the “Next” button.
-xii)  Click on the “Install” button.
-xiii) Wait for the while till the time the setup is properly Installed into the Computer
-xiv) After complication of the setup you can click on the “Finish” button or you can also register the Software, for Further Assistance because it is a Free Software.
-xv)  Now you can start the NetBeans for further use.
+5) Click on the next option.
+6) Check on the “Private networks, such as my home and work network”.
+7) Click on the Allow access button.
+8) Check on the “I accept” option and click on the “Next” button.
+9) Select the path where you want to install the software and press the “Next” button.
+10)  Set the Password, User Name & Ports for the Network Connectivity, or we can use this UserName and the Password for the Connecting the Front-End to the Back-End. 
+11)  Click on the “Next” button.
+12)  Click on the “Install” button.
+13) Wait for the while till the time the setup is properly Installed into the Computer
+14) After complication of the setup you can click on the “Finish” button or you can also register the Software, for Further Assistance because it is a Free Software.
+15)  Now you can start the NetBeans for further use.
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
 
-i) Click on the Project.
-ii) go to default package.
-iii) Go to the project file .
-iv) Right Click on the project file
-v) Click on the Run file to run the project file.
+1) Click on the Project.
+2) go to default package.
+3) Go to the project file .
+4) Right Click on the project file
+5) Click on the Run file to run the project file.
 
 
 
@@ -121,23 +121,23 @@ Add notes about how to use the system.
 2) Creating JFrames:
    To add a JFrame container:
 
-           i)In the Projects window, right-click the ContactEditor node and choose New > JFrame Form. Alternatively, you can find a JFrame form by choosing New > Other >               Swing GUI Forms > JFrame Form.
+           1)In the Projects window, right-click the ContactEditor node and choose New > JFrame Form. Alternatively, you can find a JFrame form by choosing New > Other >               Swing GUI Forms > JFrame Form.
 
-           ii)Enter ContactEditorUI as the Class Name.
+           2)Enter ContactEditorUI as the Class Name.
 
-           iii)Enter my.contacteditor as the package.
+           3)Enter my.contacteditor as the package.
 
-           iv)Click Finish.
+           4)Click Finish.
            
  When we added the JFrame container, the IDE opened the newly-created ContactEditorUI form in an Editor tab with a toolbar containing several buttons, as shown in the   preceding illustration.
 The ContactEditor form opened in the GUI Builder’s Design view and three additional windows appeared automatically along the IDE’s edges, enabling you to navigate, organize, and edit GUI forms as you build them.
  
  The GUI Builder’s various windows include:
  
- i) Design area.
- ii) Source code
- iii) Pallet area
- iv) Navigator
+ 1) Design area.
+ 2) Source code
+ 3) Pallet area
+ 4) Navigator
  
  
  If you click the Source button, the IDE displays the application’s Java source code in the Editor with sections of code that are automatically generated by the GUI      Builder indicated by grey areas (they become blue when selected), called Guarded Blocks. 
