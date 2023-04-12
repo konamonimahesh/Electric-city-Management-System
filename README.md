@@ -157,7 +157,9 @@ v) Click on the Run file to run the project file.
 
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
- [!bg width:1000p]x("flowDiagram.png")
+ <a href="" rel="noopener">
+
+ <img width=500px height=200px src="flowDiagram.png" alt="flow chart"></a>
  
  - [Java](https://www.java.com/) - Java
 - [Mysql](https://Mysql.com/) - Mysql
