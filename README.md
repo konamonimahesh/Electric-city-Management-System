@@ -68,10 +68,10 @@ A step by step series of examples that tell you how to get a development env run
 
 Java Installation:
 
-i) Go to Chrome and type Oracle java.
-ii) Go to Official website click on it.
-iii) It will take to the  Official website on top of right side you will get Download Java click on it.
-iv) Click on the JDK download link according to your operating system.
+1) Go to Chrome and type Oracle java.
+2) Go to Official website click on it.
+3) It will take to the  Official website on top of right side you will get Download Java click on it.
+4) Click on the JDK download link according to your operating system.
 v) Check the box to accept the License Agreement. It activates the download button.
 vi) Click on install buuton to install.
 vii) After successful installation go to the command prompt.
