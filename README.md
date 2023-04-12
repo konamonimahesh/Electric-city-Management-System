@@ -6,10 +6,9 @@
 <p align="center">
   <a href="" rel="noopener">
 <<<<<<< HEAD
- <img width=500px height=200px src="./ebill2.png" alt="Project logo"></a>
-=======
- 
->>>>>>> 08633c9615aff3dd0d5272ca1229cd8c67964c67
+ <img width=500px height=200px src="ebill2.png" alt="Project logo"></a>
+
+
 </p>
 
 <h3 align="center">Electric-city-Management-System</h3>
