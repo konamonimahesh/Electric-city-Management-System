@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-<<<<<<< HEAD
+
  <img width=500px height=200px src="ebill2.png" alt="Project logo"></a>
 
 
