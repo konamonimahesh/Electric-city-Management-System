@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="electricityimage.png" alt="Project logo"></a>
+ <img width=500px height=200px src="ebill2.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Electric-city-Management-System</h3>
